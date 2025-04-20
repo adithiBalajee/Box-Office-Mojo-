@@ -18,9 +18,9 @@ Each of these questions was answered programmatically, and visualized using the 
 
 ## Files Included in the Repository
 
-- **`box_office_mojo_webscrape.ipynb`**: The main Jupyter Notebook containing all code for scraping, cleaning, analysis, and plotting. Markdown cells are used throughout the notebook to organize content and explain each step. All code is fully commented.
+- **`box_office_mojo_webscrape.ipynb`**: The main Jupyter Notebook containing all code for scraping, cleaning, analysis, and plotting. Markdown cells are used throughout the notebook to organize content and explain each step. All code is commented.
 - **`box_office_weekend_data.csv`**: The raw dataset obtained from the web scraping process.
-- **`final_box_office_data_with_special_days.csv`**: A cleaned version of the dataset that separates holiday/event labels from the weekend dates.
+- **`cleaned_box_office_data.csv`**: A cleaned version of the dataset that separates holiday/event labels from the weekend dates.
 - **`README.md`**: This file, which explains the project structure, its goals, and the contents of the repository.
 
 ---
