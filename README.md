@@ -4,7 +4,7 @@
 
 The purpose of this project is to collect and analyze weekend box office data from the United States across the years 2020 to 2024. The data was scraped from the website [Box Office Mojo](https://www.boxofficemojo.com/weekend/by-year/) using a Python-based web scraping pipeline built with the `requests` and `BeautifulSoup` libraries.
 
-This project is designed to apply practical data science skills, including web scraping, data cleaning, exploratory data analysis, and visualization. The goal is to answer real-world questions about trends in movie releases and revenues using scraped data structured into a pandas DataFrame.
+This project is designed to apply practical data science skills, including web scraping, data cleaning, exploratory data analysis, and visualization. The goal is to answer questions about trends, patterns, and shifts, in movie releases and revenues using scraped data structured into a pandas DataFrame.
 
 The analysis explores questions such as:
 - Which year had the highest total weekend box office revenue?
@@ -12,7 +12,7 @@ The analysis explores questions such as:
 - How do weekend grosses change seasonally (e.g., summer vs. winter)?
 - Which months have the highest concentration of movie releases?
 
-Each of these questions was answered programmatically, and visualized using the `seaborn` library. Visualizations include custom formatting, data labels, and clear titles to highlight findings.
+Each of these questions was answered programmatically, and the graphs are visualized using the seaborn library.
 
 ---
 
