@@ -16,7 +16,7 @@ This project uses data scraped from [Box Office Mojo](https://www.boxofficemojo.
 - Which months have the most releases? 
 
 ## Files included in the repositoy
-- `THEWEBSCRAPING.ipynb`: Full scraping + analysis notebook
+- `box_office_mojo_webscrape.ipynb`: Full scraping + analysis notebook
 - `cleaned_box_office_data.csv`: Cleaned dataset
 - `box_office_weekend_data.csv` : Original dataset from scraped website (uncleaned)
 
