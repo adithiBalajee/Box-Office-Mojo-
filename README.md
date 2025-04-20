@@ -1,5 +1,12 @@
 # Box Office Mojo – Web Scraping and Analysis of U.S. Weekend Box Office Trends (2020–2024)
 
+**Author**: Adithi Balajee  
+**Course**: Data Science @ County College of Morris  
+**Project**: Data Analysis and Visualization
+**Date**: Spring 2025
+
+---
+
 ## Purpose of the Project
 
 The purpose of this project is to collect and analyze weekend box office data from the United States across the years 2020 to 2024. The data was scraped from the website [Box Office Mojo](https://www.boxofficemojo.com/weekend/by-year/) using a Python-based web scraping pipeline built with the `requests` and `BeautifulSoup` libraries.
