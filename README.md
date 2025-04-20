@@ -12,7 +12,7 @@ The analysis explores questions such as:
 - How do weekend grosses change seasonally (e.g., summer vs. winter)?
 - Which months have the highest concentration of movie releases?
 
-Each of these questions was answered programmatically, and visualized using the `seaborn` library as required. Visualizations include custom formatting, data labels, and clear titles to highlight findings.
+Each of these questions was answered programmatically, and visualized using the `seaborn` library. Visualizations include custom formatting, data labels, and clear titles to highlight findings.
 
 ---
 
