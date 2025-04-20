@@ -18,7 +18,7 @@ This project uses data scraped from [Box Office Mojo](https://www.boxofficemojo.
 ## Files included in the repositoy
 - `THEWEBSCRAPING.ipynb`: Full scraping + analysis notebook
 - `cleaned_box_office_data.csv`: Cleaned dataset
-- box_office_weekend_data.csv : Original dataset from scraped website (uncleaned)
+- `box_office_weekend_data.csv` : Original dataset from scraped website (uncleaned)
 
 ## Source
 Scraped from: https://www.boxofficemojo.com/weekend/by-year/
