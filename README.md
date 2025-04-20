@@ -2,16 +2,15 @@
 
 **Author**: Adithi Balajee  
 **Course**: Data Science @ County College of Morris  
-**Project**: Data Analysis and Visualization
 **Date**: Spring 2025
-
+**Project**:  Web Scraped Data Analysis and Visualizations
 ---
 
 ## Purpose of the Project
 
-The purpose of this project is to collect and analyze weekend box office data from the United States across the years 2020 to 2024. The data was scraped from the website [Box Office Mojo](https://www.boxofficemojo.com/weekend/by-year/) using a Python-based web scraping pipeline built with the `requests` and `BeautifulSoup` libraries.
+The purpose of this project is to collect and analyze weekend box office data from the United States across the years 2020 to 2024. The data was scraped from the website [Box Office Mojo](https://www.boxofficemojo.com/weekend/by-year/) using a Python-based web scraping pipeline built with the `BeautifulSoup` library.
 
-This project is designed to apply practical data science skills, including web scraping, data cleaning, exploratory data analysis, and visualization. The goal is to answer questions about trends, patterns, and shifts, in movie releases and revenues using scraped data structured into a pandas DataFrame.
+This project is designed to apply practical data science skills, including web scraping, data cleaning, exploratory data analysis, and visualization. The goal is to answer questions about trends, patterns, and shifts, in movie releases and revenues using the scraped data.
 
 The analysis explores questions such as:
 - Which year had the highest total weekend box office revenue?
