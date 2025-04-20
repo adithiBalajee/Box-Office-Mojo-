@@ -3,7 +3,6 @@
 **Author**: Adithi Balajee  
 **Course**: Data Science @ County College of Morris  
 **Project**: Data Analysis and Visualization
-
 **Date**: Spring 2025
 
 ---
