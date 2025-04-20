@@ -30,17 +30,43 @@ Each of these questions was answered programmatically, and the graphs are visual
 The data was scraped from Box Office Mojo’s weekend box office archive:  
 **https://www.boxofficemojo.com/weekend/by-year/**
 
-## External sources used: 
-Heatmap creation: 
-- https://seaborn.pydata.org/generated/seaborn.heatmap.html
-Adding data labels to bar charts:
-- https://stackoverflow.com/questions/39444665/add-data-labels-to-seaborn-factor-plot
-Webscraping help:
-- https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping
-- https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
-Using 're' for stripping letters + data cleaning:
-- https://docs.python.org/3/howto/regex.html
-- https://stackoverflow.com/questions/23586510/return-multiple-columns-from-pandas-apply
-- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html?utm_source=chatgpt.com
+## 📚 External Resources & References
 
+### Data Visualization & Analysis
+
+- **Seaborn Heatmap Documentation**  
+  Waskom, M., et al. (n.d.). *seaborn.heatmap*. Seaborn. Retrieved April 20, 2025, from  
+  [https://seaborn.pydata.org/generated/seaborn.heatmap.html](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+
+- **Adding Data Labels to Bar Charts**  
+  Stack Overflow. (2016). *Add data labels to seaborn factor plot*. Retrieved April 20, 2025, from  
+  [https://stackoverflow.com/questions/39444665/add-data-labels-to-seaborn-factor-plot](https://stackoverflow.com/questions/39444665/add-data-labels-to-seaborn-factor-plot)
+
+---
+
+### Web Scraping
+
+- **Bright Data - Web Scraping with Beautiful Soup**  
+  Bright Data. (n.d.). *Beautiful Soup Web Scraping*. Retrieved April 20, 2025, from  
+  [https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping](https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping)
+
+- **GeeksforGeeks - Beautiful Soup Tutorial**  
+  GeeksforGeeks. (n.d.). *Implementing web scraping in Python with BeautifulSoup*. Retrieved April 20, 2025, from  
+  [https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
+
+---
+
+### Data Cleaning with Regular Expressions and Pandas
+
+- **Python Regex HOWTO**  
+  Python Software Foundation. (n.d.). *Regular Expression HOWTO*. Retrieved April 20, 2025, from  
+  [https://docs.python.org/3/howto/regex.html](https://docs.python.org/3/howto/regex.html)
+
+- **Stack Overflow - Pandas Apply Return Multiple Columns**  
+  Stack Overflow. (2014). *Return multiple columns from pandas apply*. Retrieved April 20, 2025, from  
+  [https://stackoverflow.com/questions/23586510/return-multiple-columns-from-pandas-apply](https://stackoverflow.com/questions/23586510/return-multiple-columns-from-pandas-apply)
+
+- **Pandas Documentation - DataFrame.apply**  
+  The pandas development team. (n.d.). *pandas.DataFrame.apply*. Retrieved April 20, 2025, from  
+  [https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html?utm_source=chatgpt.com%5D%28https%3A%2F%2Fpandas.pydata.org%2Fdocs%2Freference%2Fapi%2Fpandas.DataFrame.apply.html%3Futm_)
 
