@@ -29,3 +29,18 @@ Each of these questions was answered programmatically, and the graphs are visual
 
 The data was scraped from Box Office Mojo’s weekend box office archive:  
 **https://www.boxofficemojo.com/weekend/by-year/**
+
+## External sources used: 
+Heatmap creation: 
+- https://seaborn.pydata.org/generated/seaborn.heatmap.html
+Adding data labels to bar charts:
+- https://stackoverflow.com/questions/39444665/add-data-labels-to-seaborn-factor-plot
+Webscraping help:
+- https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping
+- https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+Using 're' for stripping letters + data cleaning:
+- https://docs.python.org/3/howto/regex.html
+- https://stackoverflow.com/questions/23586510/return-multiple-columns-from-pandas-apply
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html?utm_source=chatgpt.com
+
+
