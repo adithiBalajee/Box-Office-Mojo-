@@ -36,7 +36,7 @@ Each of these questions was answered programmatically, and the graphs are visual
 The data was scraped from Box Office Mojo’s weekend box office archive:  
 **https://www.boxofficemojo.com/weekend/by-year/**
 
-## 📚 External Resources & References
+## External Resources & References
 
 ### Data Visualization & Analysis
 
